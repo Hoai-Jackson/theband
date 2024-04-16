@@ -422,9 +422,9 @@ html {
     display: none;
 }
 
-/* .modal.open {
+.open {
     display: flex;
-} */
+}
 
 .modal-container {
     background-color: #fff;
